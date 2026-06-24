@@ -1,4 +1,4 @@
-# 🩺 Dr. Online App
+# 🩺 Dr. Online Mobile App  ANdroid,IOS (expo React Native). Backend in the node.js, MongoDB
 
 A robust, full-fledged telemedicine platform that bridges the gap between doctors and patients. This application streamlines the entire healthcare experience—from finding a specialist and securely processing payments via Stripe, to tracking appointment histories and managing operations through a powerful administrative dashboard.
 
