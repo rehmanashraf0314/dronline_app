@@ -29,7 +29,7 @@ Watch how easily patients can browse available slots and secure their medical ap
 
 <img src="working_samples/appointment_making.png" width="320" alt="Appointment Making Preview">
 <br>
-📺 **[Click here to watch the working video demonstration](https://github.com/rehmanashraf0314/dronline_app/working_samples/appointment_making.mp4)**
+📺 **[Click here to watch the working video demonstration](https://github.com/rehmanashraf0314/dronline_app/raw/main/working_samples/appointment_making.mp4)**
 
 ---
 
@@ -38,7 +38,7 @@ This demonstration shows the smooth client-side integration of Stripe, providing
 
 <img src="working_samples/payment_processing.png" width="320" alt="Payment Processing Preview">
 <br>
-📺 **[Click here to watch the working video demonstration](https://github.com/rehmanashraf0314/dronline_app/working_samples/payment_processing.mp4)**
+📺 **[Click here to watch the working video demonstration](https://github.com/rehmanashraf0314/dronline_app/raw/main/working_samples/payment_processing.mp4)**
 
 ---
 
@@ -47,7 +47,7 @@ An inside look at the administrative control panel used to oversee the entire ec
 
 <img src="working_samples/Admin_portal.png" width="550" alt="Admin Portal Preview">
 <br>
-📺 **[Click here to watch the working video demonstration](https://github.com/rehmanashraf0314/dronline_app/working_samples/Admin_portal.mp4)**
+📺 **[Click here to watch the working video demonstration](https://github.com/rehmanashraf0314/dronline_app/raw/main/working_samples/Admin_portal.mp4)**
 
 ---
 
