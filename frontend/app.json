@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "DrOnline",
+    "slug": "dronline",
+    "version": "1.0.0",
+    "scheme": "dronline",
+    "platforms": ["ios", "android"],
+    "android": {
+      "package": "com.dronline.app"
+    },
+    "plugins": [
+      [
+        "@stripe/stripe-react-native",
+        {
+          "merchantIdentifier": "merchant.com.dronline.app",
+          "enableGooglePay": false
+        }
+      ]
+    ]
+  }
+}
